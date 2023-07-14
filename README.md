@@ -1,1 +1,2 @@
-[计算机基础只是](itBase.md)
+[计算机基础知识](itBase.md)
+[网络基础知识](netBase.md)
